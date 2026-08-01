@@ -1,0 +1,28 @@
+/* 
+Theme name: Student Theme
+Author: Leonife Nativdad
+Description: My first Student Theme
+Version: 1.0.0
+*/
+nav {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            
+        }
+
+header {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:  10px;
+    padding-right:  10px;
+}
+a{
+    text-decoration: none;
+}
+
+main{
+    display: flex;
+}
