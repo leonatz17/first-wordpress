@@ -17,8 +17,8 @@
         </div>
 
         <nav>
-            <a href="">Home</a>
-            <a href="">About</a>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
             <a href="">Service</a>
             <a href="">Contact</a>
 

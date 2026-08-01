@@ -24,5 +24,10 @@ a{
 }
 
 main{
-    display: flex;
+    
+}
+#shoe{
+    height: 50vh;
+    width: 50vw;
+
 }

@@ -1,1 +1,1 @@
-alert('JS Sucessfully loaded');
+// alert('JS Sucessfully loaded');
