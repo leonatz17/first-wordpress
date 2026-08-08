@@ -9,6 +9,8 @@ nav {
             justify-content: center;
             gap: 10px;
             
+            
+            
         }
 
 header {
@@ -18,9 +20,12 @@ header {
     align-items: center;
     padding-left:  10px;
     padding-right:  10px;
+    background-color: brown;
+    color: white;
 }
 a{
     text-decoration: none;
+    color: white;
 }
 
 main{
