@@ -1,6 +1,9 @@
 <?php get_header(); ?>
-<h1>
-    This is my front page template
-</h1>
+<div class="">
+
+    <h1 class="text-4xl text-blue-500 ">
+        This is my Home Page.
+    </h1>
+</div>
 
 <?php get_footer(); ?>
